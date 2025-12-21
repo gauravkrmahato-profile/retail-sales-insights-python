@@ -42,6 +42,7 @@ This project analyzes retail transaction data from a global superstore to unders
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
+```
 📂 Project Structure
 
 eda-superstore-sales/
@@ -62,6 +63,7 @@ eda-superstore-sales/
 ├── .gitignore                   # Files to ignore (large data, temp files)
 ├── README.md                    # Project Documentation
 └── requirements.txt             # List of dependencies
+```
 
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
