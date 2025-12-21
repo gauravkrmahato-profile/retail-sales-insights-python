@@ -42,9 +42,8 @@ This project analyzes retail transaction data from a global superstore to unders
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
-### 📂 Project Structure
+📂 Project Structure
 
-```bash
 eda-superstore-sales/
 │
 ├── data/
