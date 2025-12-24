@@ -45,7 +45,7 @@ This project analyzes retail transaction data from a global superstore to unders
 ```
 📂 Project Structure
 
-eda-superstore-sales/
+retail-sales-insights-python/
 │
 ├── data/
 │      └── superstore.csv       # Original unmodified dataset
@@ -59,6 +59,10 @@ eda-superstore-sales/
 │   ├── subcategory_profit.png
 │   ├── top_states.png
 │   └── monthly_sales.png
+│
+├──powerpoint
+│          └── EDA sales analysis.pptx
+│
 │
 ├── .gitignore                   # Files to ignore (large data, temp files)
 ├── README.md                    # Project Documentation
